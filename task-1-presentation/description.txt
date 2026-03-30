@@ -1,0 +1,21 @@
+Task 1: Digital Literacy Awareness Infographic
+
+1. Tool Used: Canva (www.canva.com)
+
+2. Design Overview: 
+As a Student Digital Ambassador, I created this one-page visual resource 
+to help my peers understand the essentials of Digital Literacy[cite: 21]. 
+The infographic covers three key topics: 
+* Safe Internet Practices: How to browse securely and protect data[cite: 25].
+* Useful Digital Tools: Browser-based tools for academic success[cite: 25].
+* Professional Presence: Tips for maintaining a professional digital footprint[cite: 25].
+
+3. Reflection: 
+I chose to use Canva because of its user-friendly interface and vast library 
+of educational templates[cite: 23]. What I found most interesting while making 
+this infographic was the challenge of information filtering[cite: 27]. One 
+difficulty I encountered was ensuring the visual hierarchy guided the reader’s 
+eye naturally from the definition down to the specific safety tips[cite: 27]. 
+This exercise taught me that being a Digital Ambassador isn't just about 
+having technical knowledge; it’s about the ability to simplify that knowledge 
+so others can stay safe and productive online[cite: 5, 27].

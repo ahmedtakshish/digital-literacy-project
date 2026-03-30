@@ -1,0 +1,40 @@
+TASK 4 - PART A: PROFESSIONAL EMAILS
+
+--- EMAIL 1: REQUESTING AN ASSIGNMENT EXTENSION ---
+
+Subject: Request for Extension: [CSE0001_Digital_Literacy] - [TAKSHISH AHMED ZAFAR]
+
+Dear Professor,
+
+I hope this email finds you well.
+
+I am writing to respectfully request a short extension on the upcoming assignment for [Course Name], originally due on [Original Date]. Due to unexpected personal circumstances, I require additional time to ensure the quality of my work meets the course standards.
+
+If possible, I would like to request an extension until [Proposed New Date]. I am happy to provide any necessary documentation if required.
+
+Thank you for your time and consideration of my request.
+
+Best regards,
+
+[TAKSHISH AHMED ZAFAR]
+[25BAI11080]
+VIT Bhopal University
+
+--- EMAIL 2: INTERNSHIP OPPORTUNITY INQUIRY ---
+
+Subject: Internship Inquiry - Summer 2026 - [TAKSHISH AHMED ZAFAR]
+
+Dear Internship Coordinator,
+
+I am a First Year B.Tech student at VIT Bhopal University, and I am writing to express my strong interest in a summer internship opportunity with [Company Name].
+
+I have been following your company’s work in [Specific Field/Project], and I am eager to apply my skills in [Mention a skill like Python or C++] to contribute to your team while gaining professional experience.
+
+Please find my digital portfolio link below for your review. I would welcome the opportunity to discuss how I might contribute to your upcoming projects.
+
+Thank you for your time and I look forward to hearing from you.
+
+Sincerely,
+
+[TAKSHISH AHMED ZAFAR]
+[www.linkedin.com/in/takshish-ahmed-42b209370]
